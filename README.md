@@ -1,2 +1,3 @@
 # Clock
-Functional clock web app
+Functional clock web app that runs perfectly
+
